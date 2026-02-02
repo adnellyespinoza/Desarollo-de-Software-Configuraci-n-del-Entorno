@@ -6,5 +6,5 @@ Lenguaje de programación: Python
 Entorno: Spyder
 Control de versión: GitHub
 # Contenido
-Diagrama de flujo del sistema
+Diagrama de flujo del sistema, 
 Avance de la codificación del software
